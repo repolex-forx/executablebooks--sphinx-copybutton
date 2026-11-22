@@ -99,6 +99,65 @@
       ],
       "ast": [
         "aggregate/ast/4a8050dea36536b005d3e757b1ac09886174f634/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4a8050dea36536b005d3e757b1ac09886174f634.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ci",
+          "ecosystem": "NPM",
+          "version": "2.1.1",
+          "githubOrg": "privatenumber",
+          "githubRepo": "ci",
+          "githubCommit": "8c8b303e2adfd0c41269f23ad1904103327c386e",
+          "githubTag": "v2.1.1",
+          "githubUrl": "git+https://github.com/privatenumber/ci.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ava",
+          "ecosystem": "NPM",
+          "version": "3.7.1",
+          "githubOrg": "avajs",
+          "githubRepo": "ava",
+          "githubCommit": "3c0fc03cf3374a718dd26cc03fd6468319ac6d03",
+          "githubTag": "v3.7.1",
+          "githubUrl": "git+https://github.com/avajs/ava.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "browser-env",
+          "ecosystem": "NPM",
+          "version": "3.3.0",
+          "githubOrg": "lukechilds",
+          "githubRepo": "browser-env",
+          "githubCommit": "835e7f6ee6a57268582529ae8114c31654a95919",
+          "githubTag": "v3.3.0",
+          "githubUrl": "git+https://github.com/lukechilds/browser-env.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "esm",
+          "ecosystem": "NPM",
+          "version": "3.2.25",
+          "githubOrg": "standard-things",
+          "githubRepo": "esm",
+          "githubCommit": "bd5da7e4ca92c00cb8db71c6015039a8edc49edf",
+          "githubTag": "3.2.25",
+          "githubUrl": "git+https://github.com/standard-things/esm.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
