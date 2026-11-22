@@ -3,6 +3,11 @@
   "repo": "sphinx-copybutton",
   "versions": [
     {
+      "commit": "4a8050dea36536b005d3e757b1ac09886174f634",
+      "tag": "v0.5.2",
+      "parsed_at": "2026-11-22T00:13:40.114542+00:00"
+    },
+    {
       "commit": "ef430062a3b7b2046f0283dcc42ee696e5878fd9",
       "tag": "",
       "parsed_at": "2026-10-12T19:40:27.238010+00:00"
